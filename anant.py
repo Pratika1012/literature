@@ -49,7 +49,7 @@ st.markdown("""
         .stMultiSelect > label {
             font-size:105%; 
             font-weight:bold; 
-            color:white;
+            color:#293A4A;
         } 
     </style>
     """, unsafe_allow_html=True)
