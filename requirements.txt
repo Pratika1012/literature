@@ -1,3 +1,4 @@
-pandas
-openpyxl
-streamlit
+pip install pandas openpyxl
+streamlit==1.23.1
+openpyxl==1.23.1
+pandas==1.5.3
